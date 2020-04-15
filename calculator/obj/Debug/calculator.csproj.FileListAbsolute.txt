@@ -1,0 +1,18 @@
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Ernest\Desktop\Ernest's Stuff\VSProjects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Ernest\Desktop\VSprojects\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
